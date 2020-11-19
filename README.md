@@ -1,4 +1,4 @@
-#C file system simulator
+# C file system simulator
 
 run make file with 'make'
 
